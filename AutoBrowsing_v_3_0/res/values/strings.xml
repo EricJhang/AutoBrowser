@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoBrowsing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	<string name="lblPassword">Enter Your Password :</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_exit">Exit</string> 
+    
+	<string name="lb_number">Number of Runs</string>    
+    <string name="lb_duration">Duration (min)</string>  
+    <string name="lb_to">~</string>
+    <string name="btn_start">Start</string> 
+    <string name="btn_stop">Stop</string>   
+    <string name="radioButton_Browser">AutoBrowser</string>   
+  <string name="radioButton_youtube">AutoYoutube</string>  
+   <string name="radioButton_com_cibn_tv">YouKU</string> 
+  
+</resources>
